@@ -17,7 +17,7 @@
 ### Connect with me:
 
 [<img align="left" alt="BloggingMetrics.com" width="22px" src="https://user-images.githubusercontent.com/60362336/90317372-a0668700-df46-11ea-877e-71ec9e09c63c.png" />][website]
-[<img align="left" alt="wpblogmetrics | Facebook" width="22px" src="https://user-images.githubusercontent.com/60362336/90317373-a0ff1d80-df46-11ea-8365-2176b7c395af.png" />][Facebook]
+[<img align="left" alt="Sayan Dey | Facebook" width="22px" src="https://user-images.githubusercontent.com/60362336/90317373-a0ff1d80-df46-11ea-8365-2176b7c395af.png" />][facebook]
 [<img align="left" alt="wpblogmetrics | Twitter" width="22px" src="https://user-images.githubusercontent.com/60362336/90317371-9fcdf080-df46-11ea-9af9-abd2e63f96e6.png" />][twitter]
 [<img align="left" alt="bloggingmetrics | Instagram" width="22px" src="https://user-images.githubusercontent.com/60362336/90317501-a446d900-df47-11ea-88ee-0ad0cb93c4ee.png" />][instagram]
 
