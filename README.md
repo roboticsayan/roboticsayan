@@ -33,9 +33,10 @@
 <img align="left" alt="NodeJs" width="26px" src="https://user-images.githubusercontent.com/60362336/90317974-b5ddb000-df4a-11ea-9c01-d969d2f78dc2.png" />
 <img align="left" alt="ReactJs" width="26px" src="https://user-images.githubusercontent.com/60362336/90317973-b413ec80-df4a-11ea-8f8d-e8f58df57778.png" />
 
+<br />
+
 ![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=roboticsayan&theme=algolia&show_icons=true&hide=issues&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact)
 
-<br />
 <br />
 
 ---
