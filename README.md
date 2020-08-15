@@ -16,9 +16,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="BloggingMetrics.com" width="22px" src="https://user-images.githubusercontent.com/60362336/90317372-a0668700-df46-11ea-877e-71ec9e09c63c.png" />][website]
+[<img align="left" alt="wpblogmetrics | Facebook" width="22px" src="https://user-images.githubusercontent.com/60362336/90317373-a0ff1d80-df46-11ea-8365-2176b7c395af.png" />][Facebook]
+[<img align="left" alt="wpblogmetrics | Twitter" width="22px" src="https://user-images.githubusercontent.com/60362336/90317371-9fcdf080-df46-11ea-9af9-abd2e63f96e6.png" />][twitter]
+[<img align="left" alt="bloggingmetrics | Instagram" width="22px" src="https://user-images.githubusercontent.com/60362336/90317501-a446d900-df47-11ea-88ee-0ad0cb93c4ee.png" />][instagram]
 
 <br />
 
@@ -28,7 +29,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=roboticsayan&theme=algolia&show_icons=true&hide=issues&include_all_commits=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact)
+![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=roboticsayan&theme=algolia&show_icons=true&hide=issues&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact)
 
 <br />
 <br />
