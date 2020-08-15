@@ -1,11 +1,10 @@
 ### Hi there, I'm Sayan from [Blogging Metrics][website] 👋
 
 [![Website](https://img.shields.io/website?label=bloggingmetrics.com&style=for-the-badge&url=https://bloggingmetrics.com)](https://bloggingmetrics.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Student, Developer, and Blogger!
 
-- 🔭 I’m currently working on a [VS Code Course][newwebsite]!
+- 🔭 I’m currently working on a [Shopistick][newwebsite]!
 - 🌱 I’m currently learning Python, .Net, NodeJs and ReactJs
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -27,13 +26,18 @@
 
 <img align="left" alt="HTML 5" width="26px" src="https://user-images.githubusercontent.com/60362336/90317976-b6764680-df4a-11ea-920c-15fbd8d645ff.png" />
 <img align="left" alt="CSS" width="26px" src="https://user-images.githubusercontent.com/60362336/90317975-b5ddb000-df4a-11ea-9354-ce03773cffad.png" />
+<img align="left" alt="C" width="26px" src="https://user-images.githubusercontent.com/60362336/90318286-41f0d700-df4d-11ea-98b5-ec755cf0637a.png" />
+<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/60362336/90318288-42896d80-df4d-11ea-95d5-025a58e93a88.png" />
 <img align="left" alt="PHP" width="26px" src="https://user-images.githubusercontent.com/60362336/90318041-27b5f980-df4b-11ea-87f3-7c3d4f609814.png" />
+<img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/60362336/90318283-40bfaa00-df4d-11ea-95e4-9ba8d3fc711e.png" />
 <img align="left" alt="Microfoft .NET" width="26px" src="https://user-images.githubusercontent.com/60362336/90317139-f0444e80-df44-11ea-9d8a-1831f75f352a.png" />
 <img align="left" alt="Javascript" width="26px" src="https://user-images.githubusercontent.com/60362336/90317977-b6764680-df4a-11ea-92ac-1a90ef1f7c23.png" />
 <img align="left" alt="NodeJs" width="26px" src="https://user-images.githubusercontent.com/60362336/90317974-b5ddb000-df4a-11ea-9c01-d969d2f78dc2.png" />
 <img align="left" alt="ReactJs" width="26px" src="https://user-images.githubusercontent.com/60362336/90317973-b413ec80-df4a-11ea-8f8d-e8f58df57778.png" />
 
 <br />
+
+### GitHub Stats
 
 ![Sayan's github stats](https://github-readme-stats.vercel.app/api?username=roboticsayan&theme=algolia&show_icons=true&hide=issues&include_all_commits=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact)
 
